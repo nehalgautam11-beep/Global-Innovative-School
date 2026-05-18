@@ -1,0 +1,164 @@
+/* [next]/internal/font/google/mali_7a4bff7.module.css [app-client] (css) */
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/69a3e7dbb4757b9c-s.9028ddcf.woff2") format("woff2");
+  unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/0835f4c56584c865-s.c5b7804c.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/88cbec1cb0861f5f-s.f4b5d761.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("../media/90a6d5b71415724d-s.p.ee6c0eb1.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/1aca6a6e0c6cb071-s.8402288a.woff2") format("woff2");
+  unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/923cc665d15ce831-s.6fe0c3ca.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/94d48301e0f2809a-s.eae39733.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("../media/d0aeca6cdfe31f90-s.p.36454c57.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/4ae2e992fa830df4-s.ccba47b4.woff2") format("woff2");
+  unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/13b12f814895d579-s.d3a8f4f8.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/ad38b5e95b4c5aae-s.7c12dde8.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("../media/0020773107769bf5-s.p.2b4bdb7f.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/a3150755b153d765-s.c08082a3.woff2") format("woff2");
+  unicode-range: U+2D7, U+303, U+331, U+E01-E5B, U+200C-200D, U+25CC;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/b1983cb42d5e28fe-s.551979ce.woff2") format("woff2");
+  unicode-range: U+102-103, U+110-111, U+128-129, U+168-169, U+1A0-1A1, U+1AF-1B0, U+300-301, U+303-304, U+308-309, U+323, U+329, U+1EA0-1EF9, U+20AB;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/fb29908bfb3ab524-s.ffa382eb.woff2") format("woff2");
+  unicode-range: U+100-2BA, U+2BD-2C5, U+2C7-2CC, U+2CE-2D7, U+2DD-2FF, U+304, U+308, U+329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: Mali;
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("../media/24bc33ae821208b7-s.p.714da535.woff2") format("woff2");
+  unicode-range: U+??, U+131, U+152-153, U+2BB-2BC, U+2C6, U+2DA, U+2DC, U+304, U+308, U+329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: Mali Fallback;
+  src: local(Arial);
+  ascent-override: 93.81%;
+  descent-override: 22.33%;
+  line-gap-override: 0.0%;
+  size-adjust: 111.93%;
+}
+
+.mali_7a4bff7-module__tmQKMW__className {
+  font-family: Mali, Mali Fallback;
+  font-style: normal;
+}
+
+.mali_7a4bff7-module__tmQKMW__variable {
+  --font-mali: "Mali", "Mali Fallback";
+}
+
+/*# sourceMappingURL=%5Bnext%5D_internal_font_google_mali_7a4bff7_module_css_bad6b30c._.single.css.map*/

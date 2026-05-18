@@ -1,0 +1,41 @@
+@import "tailwindcss";
+
+:root {
+  --home-ink: #17324d;
+  --home-coral: #ff7a59;
+  --home-aqua: #17c8c4;
+  --home-surface: #fffdf8;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--home-surface);
+  color: var(--home-ink);
+}
+
+.home-theme {
+  background:
+    radial-gradient(circle at top left, color-mix(in srgb, var(--home-coral) 12%, transparent) 0, transparent 30%),
+    radial-gradient(circle at top right, color-mix(in srgb, var(--home-aqua) 12%, transparent) 0, transparent 34%),
+    linear-gradient(180deg, #fffdf8 0%, #fffaf2 100%);
+}
+
+/* 3D Utilities */
+.perspective-1000 {
+  perspective: 1000px;
+}
+.perspective-1200 {
+  perspective: 1200px;
+}
+.preserve-3d {
+  transform-style: preserve-3d;
+}
+.backface-hidden {
+  backface-visibility: hidden;
+}
+.transform-gpu {
+  transform: translate3d(0, 0, 0);
+}
