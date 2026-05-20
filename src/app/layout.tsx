@@ -34,7 +34,8 @@ const mali = Mali({
 
 export const metadata: Metadata = {
   title: "Global Innovative School | Premium Education",
-  description: "Global Innovative School provides a modern, joyful learning environment. Discover our state-of-the-art campus, robotics lab, and activity-based pre-primary wing.",
+  applicationName: "Global Innovative School",
+  description: "Global Innovative School provides a modern, joyful learning environment. Discover our robotics lab, and activity-based pre-primary wing.",
   keywords: ["Global Innovative School", "GIS", "Best School", "Premium Education", "Robotics Lab", "Pre-Primary", "Admissions"],
   authors: [{ name: "Global Innovative School" }],
   openGraph: {
@@ -57,6 +58,8 @@ export const metadata: Metadata = {
   },
   icons: {
     icon: "/logo.png",
+    shortcut: "/logo.png",
+    apple: "/logo.png",
   }
 };
 
