@@ -57,9 +57,9 @@ export const metadata: Metadata = {
     google: "XTQrBb2ys8Mp48RPf_XipSFPVse8B3GJj9lIOpVIqlA",
   },
   icons: {
-    icon: "/logo.png",
-    shortcut: "/logo.png",
-    apple: "/logo.png",
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
   }
 };
 
@@ -70,8 +70,20 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      {/* Add mali.variable to the body class list */}
       <body className={`${fredoka.variable} ${quicksand.variable} ${patrickHand.variable} ${mali.variable} font-sans bg-school-cream text-school-text antialiased overflow-x-hidden selection:bg-school-primary selection:text-white`}>
+        {/* Google Structured Data to force Site Name */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "WebSite",
+              name: "Global Innovative School",
+              url: "https://globalinnovativeschool.com/",
+            }),
+          }}
+        />
+        
         <Navbar />
         {children}
         <Footer />
